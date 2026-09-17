@@ -1,4 +1,3 @@
-mod args;
 mod pgpass;
 use inquire::{Confirm, Select};
 
